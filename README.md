@@ -29,12 +29,11 @@ Seq2Next is a deep learning project focused on building a **next-word predictor*
 
 <div align="center">
 
-| ![Seq1](https://github.com/anuj-hmm/Seq2Next/blob/main/Seq1.png) | ![Training Loss](https://github.com/anuj-hmm/Seq2Next/blob/main/seq3.png
-) | ![Word Probabilities](https://github.com/anuj-hmm/Seq2Next/blob/main/seq4.png) |
+| ![Seq1](https://github.com/AniEE107/Seq2Next/blob/main/Seq1.png) | ![Training Loss](https://github.com/AniEE107/Seq2Next/blob/main/seq3.png) | ![Word Probabilities](https://github.com/AniEE107/Seq2Next/blob/main/seq4.png) |
 |:-------------------------------------------------------------:|:------------------------------------------------------------------:|:-----------------------------------------------------------------------:|
 | Dataset Sample & Tokenization                                  | Training Loss over Epochs                                           | Predicted Next Word Probability Distribution                            |
 
-| ![Sample Predictions](https://github.com/anuj-hmm/Seq2Next/blob/main/seq5.png) | ![Model Architecture](https://github.com/anuj-hmm/Seq2Next/blob/main/seq6.png) |
+| ![Sample Predictions](https://github.com/AniEE107/Seq2Next/blob/main/seq5.png) | ![Model Architecture](https://github.com/AniEE107/Seq2Next/blob/main/seq6.png) |
 |:---------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|
 | Example Next-Word Predictions                                               | Model Summary and Layer Details                                              |
 
