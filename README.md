@@ -4,9 +4,9 @@
 
 <div align="center">
 
-| **👨‍💻 Author** | **🌐 Portfolio** | **🛠️ Technology Stack** | **📚 Dataset** | **📈 Key Highlights** |  
-|:---------------:|:----------------:|:-----------------------:|:-------------:|:--------------------:|  
-| Manish Kumar    | [🔗 View Portfolio](https://portfolio-tau-two-4ctl6fnzgq.vercel.app/) | Python, TensorFlow, Keras, NumPy, Pandas | WikiText-2 (Raw) | Tokenization & Sequence Generation<br>LSTM-based Language Model<br>Interactive Next-Word Prediction |
+| **👨‍💻 Author** | **🛠️ Technology Stack** | **📚 Dataset** | **📈 Key Highlights** |  
+|:---------------:|:-----------------------:|:-------------:|:--------------------:|  
+| Anuj Hansda    | Python, TensorFlow, Keras, NumPy, Pandas | WikiText-2 (Raw) | Tokenization & Sequence Generation<br>LSTM-based Language Model<br>Interactive Next-Word Prediction |
 </div>
 
 ---
